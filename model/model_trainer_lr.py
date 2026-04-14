@@ -1,4 +1,4 @@
-#Using logistic regression
+#Using logistic regression Classifier
 
 import pandas as pd
 
